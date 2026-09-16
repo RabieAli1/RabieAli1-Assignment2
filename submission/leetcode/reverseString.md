@@ -1,1 +1,1 @@
-https://leetcode.com/problems/reverse-string/post-solution/?submissionId=2137916769
+https://leetcode.com/submissions/detail/2137916769/
